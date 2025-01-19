@@ -143,13 +143,37 @@ Tenemos muchas extensiones, tanto para lenguajes de programación específicos c
 
 
 
-5. **Configurar la extensión (si es necesario):**
-   - Algunas extensiones requieren configuración adicional. Puedes acceder a las configuraciones a través de **Window** > **Preferences** en el menú principal y buscar la sección correspondiente a la extensión que acabas de instalar.
-
 
 __Las siguientes operaciones las puedes hacer desde el entorno Eclipse que hemos creado o puedes utilizar el IDE que prefieras en tu equipo__
 >__Busca cuáles son las mejores extensiones de eclipse para programadores y las añades desde la tienda de tu IDE__
 >__ Busca y escribe para qué sirven estos plugins: Checkstyle, Sonar Lint.__
+
+![](imagenes/imagen11.png)
+
+### **Plugins a instalar y su utilidad**
+
+#### **Checkstyle**
+- **Descripción:** Checkstyle es un plugin que analiza el código fuente para verificar que cumple con las reglas de estilo definidas. Esto incluye aspectos como formato, convenciones de nomenclatura y estructura del código.
+- **Beneficio:** Asegura la uniformidad y legibilidad del código, lo que facilita su mantenimiento.
+
+#### **SonarLint**
+- **Descripción:** SonarLint es una herramienta que analiza el código en tiempo real mientras lo editas y proporciona advertencias sobre errores, vulnerabilidades y problemas de calidad.
+- **Beneficio:** Identifica problemas de seguridad y calidad de forma inmediata, permitiendo corregirlos antes de que afecten al proyecto.
+
+#### Otros Plugins recomendados
+- **PyDev**: Añade soporte para desarrollo en Python en Eclipse, con características como autocompletado y depuración.
+
+![](imagenes/imagen12.png)
+
+- **Eclipse Color Theme**: Permite personalizar el esquema de colores del editor.
+
+
+![](imagenes/imagen13.png)
+
+- **Eclipse Code Recommenders**: Mejora las sugerencias de autocompletado y análisis del código.
+
+---
+
 >__Instala los plugins y complementos que has encontrado. Además busca e instala los plugins Checkstyle y Sonar Lint.__
 
 
