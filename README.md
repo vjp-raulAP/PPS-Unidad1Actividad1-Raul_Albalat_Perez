@@ -21,6 +21,15 @@ sudo mkdir -p  $HOME/docker/eclipse/datos
 sudo chown -R $(whoami) $HOME/docker/eclipse
 sudo chgrp -R $(whoami) $HOME/docker/eclipse
 ~~~
+ **Creamos las carpetas necesarias:**
+   - Se utiliza `mkdir -p` para crear la estructura de directorios donde se almacenarán los datos del contenedor Eclipse.
+
+ **Cambiamos el propietario de las carpetas:**
+   - `chown` asigna la propiedad de las carpetas y subcarpetas al usuario actual para garantizar acceso total.
+
+ **Cambiamos el grupo de las carpetas:**
+   - `chgrp` asegura que el grupo del usuario tenga los permisos necesarios sobre las carpetas.
+
 
 ![](imagenes/imagen1.png)
 
